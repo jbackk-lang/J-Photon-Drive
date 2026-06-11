@@ -84,5 +84,27 @@ Operator **J**:
   - położenie punktu J (maksima pola).
 
 Model w tej wersji traktowany jest jako koncepcja eksperymentu z podwójną bramą i pamięcią pola w akceleratorze.
-
+---
 Projektowany stosunek mocy wejściowej do efektywnej mocy wyjściowej w strukturze pola: 1/59 (tryb eksperymentalny)
+
+---
+## Parametry energetyczne (tryb eksperymentalny)
+
+W modelu zakłada się asymetryczny stosunek mocy wejściowej do efektywnej
+mocy wyjściowej w strukturze pola:
+
+**P_in : P_out = 1 : 59**
+
+Interpretacja:
+
+- wejściowa moc RF służy jedynie do wzbudzenia i podtrzymania modu pola,
+- operator J oraz helisa pola tworzą warunki rezonansu i pamięci,
+- efektywna „moc wyjściowa” odnosi się do energii zgromadzonej i
+  przetwarzanej w strukturze pola (nie do klasycznej mocy elektrycznej),
+- współczynnik 1/59 jest wartością projektową dla trybu eksperymentalnego
+  i wynika z przewidywanej dźwigni rezonansowej w komorze fotonowej.
+
+Parametr ten nie oznacza nadwyżki energetycznej w sensie klasycznym,
+lecz opisuje różnicę między energią wejściową a energią efektywnie
+przenoszoną i modulowaną w strukturze pola.
+
