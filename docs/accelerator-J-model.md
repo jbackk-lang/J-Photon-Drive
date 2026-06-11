@@ -84,3 +84,39 @@ Operator **J**:
   - położenie punktu J (maksima pola).
 
 Model w tej wersji traktowany jest jako koncepcja eksperymentu z podwójną bramą i pamięcią pola w akceleratorze.
+
+# Model operatora J
+
+Operator **J** reprezentuje punkt skrętu helisy pola w eksperymencie
+akceleratorowym. Łączy dwie strony pola elektromagnetycznego oraz warunek
+rezonansu wynikający z Laplasjanu.
+
+## Parametry RF
+
+- częstotliwość RF: 500 MHz
+- długość fali:
+  λ = c / ν = 0.6 m
+
+## Geometria helisy
+
+- jedna strona helisy: L = 0.3 m
+- obieg tam + z powrotem: 2L = 0.6 m
+- czas obiegu: T = 2 ns
+
+## Warunek rezonansu
+
+2L = n λ
+
+## Rola operatora J
+
+J działa jako punkt skrętu, w którym fala powrotna jest w fazie z falą
+pierwotną. Umożliwia to:
+
+- przywracanie pamięci pola,
+- odwracanie działania bram B1 i B2,
+- tworzenie fali stojącej w helisie.
+
+Formalnie:
+
+B₂ J B₁ ≈ I
+
