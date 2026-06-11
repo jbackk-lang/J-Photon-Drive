@@ -84,3 +84,5 @@ Operator **J**:
   - położenie punktu J (maksima pola).
 
 Model w tej wersji traktowany jest jako koncepcja eksperymentu z podwójną bramą i pamięcią pola w akceleratorze.
+
+Projektowany stosunek mocy wejściowej do efektywnej mocy wyjściowej w strukturze pola: 1/59 (tryb eksperymentalny)
