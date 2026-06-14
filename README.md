@@ -121,7 +121,15 @@ W praktyce laboratoryjnej chiralność ta odpowiada:
 
 kierunkowi prądu w cewkach generujących pole,
 
-orientacji wektora pola magnetycznego względem geometrii torusa,
+orientacji wektora pola magnetycznego względem geometrii torusa
+
+## Rola pierwiastka Z = 114 jako punktu odniesienia
+
+W analizie stabilności układów o strukturze toroidalno‑topologicznej wykorzystano dane jądrowe dotyczące superciężkich jąder, w szczególności pierwiastka Flerovium (Z = 114). Najstabilniejszy znany izotop, ²⁸⁹Fl, charakteryzuje się czasem życia rzędu 2,6 s, co czyni go najdłużej żyjącym jądrem w obszarze superciężkim. W kontekście proponowanego modelu topologicznego wartość ta stanowi empiryczny punkt odniesienia dla granicy stabilności układów o wysokiej gęstości energii.
+
+Flerovium pełni funkcję skalującego markera: jego czas życia wyznacza zakres, w którym układ pozostaje w stanie metastabilnym, zanim nastąpi przejście do niższej warstwy energetycznej. W proponowanej konfiguracji topologicznej odpowiada to najniższej stabilnej warstwie skrętnej, w której możliwa jest obserwacja krótkotrwałych zjawisk radiacyjnych, takich jak mikrosekundowy impuls fotonowy.
+
+Włączenie danych dla Z = 114 nie oznacza fizycznego udziału tego pierwiastka w eksperymencie, lecz służy jako teoretyczna i empiryczna kotwica dla określenia granic stabilności oraz czasów życia układów o analogicznej strukturze energetycznej.
 
 polaryzacji impulsu wzbudzającego,
 
