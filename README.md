@@ -108,7 +108,7 @@ Parametr ten nie oznacza nadwyżki energetycznej w sensie klasycznym,
 lecz opisuje różnicę między energią wejściową a energią efektywnie
 przenoszoną i modulowaną w strukturze pola.
 
-##Chiralność układu eksperymentalnego
+## Chiralność układu eksperymentalnego
 
 W proponowanej konfiguracji kluczowym parametrem jest chiralność pola generowanego w geometrii toroidalno‑Möbiuszowej. Układ pracuje w wariancie lewoskrętnym (ujemnym), co odpowiada orientacji pola, w której energia impulsu przechodzi w kierunku niższej warstwy topologicznej układu.
 
