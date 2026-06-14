@@ -108,3 +108,23 @@ Parametr ten nie oznacza nadwyżki energetycznej w sensie klasycznym,
 lecz opisuje różnicę między energią wejściową a energią efektywnie
 przenoszoną i modulowaną w strukturze pola.
 
+##Chiralność układu eksperymentalnego
+
+W proponowanej konfiguracji kluczowym parametrem jest chiralność pola generowanego w geometrii toroidalno‑Möbiuszowej. Układ pracuje w wariancie lewoskrętnym (ujemnym), co odpowiada orientacji pola, w której energia impulsu przechodzi w kierunku niższej warstwy topologicznej układu.
+
+Lewoskrętna konfiguracja pełni funkcję kanału deekscytacji:
+umożliwia przejście energii z impulsu wejściowego do krótkotrwałego stanu fotonowego, obserwowanego jako mikrosekundowy błysk. W tej orientacji układ wykazuje największą stabilność dynamiczną oraz najwyższą efektywność konwersji energii w promieniowanie.
+
+Parametry praktyczne
+
+W praktyce laboratoryjnej chiralność ta odpowiada:
+
+kierunkowi prądu w cewkach generujących pole,
+
+orientacji wektora pola magnetycznego względem geometrii torusa,
+
+polaryzacji impulsu wzbudzającego,
+
+oraz globalnej orientacji topologicznej wnęki.
+
+Konfiguracja lewoskrętna jest wymagana do uzyskania charakterystycznego sygnału fotonowego, ponieważ tylko w tym wariancie zachodzi zgodność między kierunkiem przepływu energii a strukturą topologiczną układu.
