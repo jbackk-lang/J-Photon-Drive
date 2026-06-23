@@ -1,3 +1,7 @@
+## 🔗 Wszystkie modele i repozytoria
+Pełna lista projektów znajduje się na stronie:
+https://jbackk-lang.github.io
+---
 # J‑Photon‑Drive  
 Silnik pojęciowy opisujący, jak operator J działa w strukturze helisy:  
 gdzie powstaje skręt, gdzie zmienia się orientacja i gdzie rodzi się rezonans.
